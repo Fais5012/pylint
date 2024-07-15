@@ -9,4 +9,4 @@ pytest-timeout~=2.2
 towncrier~=23.11
 requests
 # Voluntary for test purpose, not actually used in prod, see #8904
-setuptools==65.5.1
+setuptools==70.0.0
